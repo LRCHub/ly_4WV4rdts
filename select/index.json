@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "KICK BACK",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-03-26T07:07:16.606871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kick Back Relax",
+      "artist": "Agnes",
+      "has_synced": false,
+      "path": "select/01_Kick_Back_Relax_Agnes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KICK BACK",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/02_KICK_BACK_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KICK BACK",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/03_KICK_BACK_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KICK BACK -ANIME edit",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/04_KICK_BACK_-ANIME_edit_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KICK BACK -ANIME edit",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/05_KICK_BACK_-ANIME_edit_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KICK BACK",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/06_KICK_BACK_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kick Back",
+      "artist": "Tantric",
+      "has_synced": true,
+      "path": "select/07_Kick_Back_Tantric.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kick Back",
+      "artist": "WayV",
+      "has_synced": true,
+      "path": "select/08_Kick_Back_WayV.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kick Back (Korean Version)",
+      "artist": "WayV",
+      "has_synced": true,
+      "path": "select/09_Kick_Back_(Korean_Version)_WayV.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kick Back 秘境",
+      "artist": "Wayv",
+      "has_synced": true,
+      "path": "select/10_Kick_Back_秘境_Wayv.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "KICK BACK",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/11_KICK_BACK_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "KICK BACK",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/12_KICK_BACK_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "KICK BACK",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/13_KICK_BACK_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kick Back (feat. Lil Gotit & StickBaby)",
+      "artist": "Lil Keed feat. Young Stoner Life, Lil Gotit & Stickbaby",
+      "has_synced": false,
+      "path": "select/14_Kick_Back_(feat._Lil_Gotit_&_StickBaby)_Lil_Keed_feat._Young_Stoner_Life,_Lil_Gotit_&_Stickbaby.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kick Back",
+      "artist": "Lil Keed, Young Stoner Life feat. Lil Gotit & Stickbaby",
+      "has_synced": false,
+      "path": "select/15_Kick_Back_Lil_Keed,_Young_Stoner_Life_feat._Lil_Gotit_&_Stickbaby.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "KICK BACK",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/16_KICK_BACK_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kick Back",
+      "artist": "Blinding Sunrise",
+      "has_synced": false,
+      "path": "select/17_Kick_Back_Blinding_Sunrise.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KICK BACK",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_KICK_BACK_米津玄師.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "KICK BACK",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/localdb_01_KICK_BACK_米津玄師.txt",
+      "repo_name": "LMyZmRNszHo"
+    }
+  ]
+}
